@@ -1599,6 +1599,10 @@ body {
 .cid-resCmTkUTV .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-resCmTkUTV .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-resCmTkUTV .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-resCmTkUTV .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-resCmTkUTV .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1694,6 +1698,10 @@ body {
   .cid-resCmTkUTV .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
+  .cid-resCmTkUTV .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-resCmTkUTV .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
+  }
   .cid-resCmTkUTV .navbar-collapse.collapsing .navbar-buttons,
   .cid-resCmTkUTV .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -1757,7 +1765,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-resCvNybBQ {
-  background-image: url("../../../assets/images/mbr-1920x1279.jpg");
+  background-image: url("../../../assets/images/xiaomi-mijia-electric-scooter-16-807x357.jpg");
 }
 .cid-resCvNybBQ .form-container {
   transition: all .2s;
